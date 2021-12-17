@@ -6,12 +6,12 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Navigate to this folder through git bash.
 - Now in git bash terminal run the following command:
 ```sh
-git clone https://github.com/arvyadav07/idgenerator/edit/main/
+git clone https://github.com/arvyadav07/idgenerator
 ```
 
 - Navigate to the project folder by running following command in terminal:
 ```sh
-cd id-generator/
+cd idgenerator/
 ```
 
 - Run the following command to install the node.js packages
@@ -36,7 +36,7 @@ http://localhost:3000/
 
 ## Features
 
-- Provides the unique ID to each user
+- Enter the input accoding the UI...
 
 ## Installation
 
@@ -52,5 +52,5 @@ node index.js
 ```
 
 ## Output
-[Output-1](https://res.cloudinary.com/shaad82663/image/upload/v1636520802/Avtaar-Internship-Assisnments/OP-1_ewrpit.png)
-[Output-2](https://res.cloudinary.com/shaad82663/image/upload/v1636520803/Avtaar-Internship-Assisnments/OP-2_wjuyp6.png)
+[Output-1](https://drive.google.com/file/d/1PIArxlqHr-Ju2c0OM5jR2TWBHo-BUDJt/view?usp=sharing)
+[Output-2](https://drive.google.com/file/d/12u5KkHsPgTXNLhR2IkCFlqpoFjO3jFZN/view?usp=sharing)
