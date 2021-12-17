@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Avtaar Assign-1 by Aditya",
+  "author": "Arvind Avtaar Assignment",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
