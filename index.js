@@ -32,6 +32,6 @@ app.post("/", (req, res) => {
        );
 })
 
-app.listen(2000, () => {
-    console.log('Server running over localhost: 2000');
+app.listen(3000, () => {
+    console.log('Running server over loalhost:3000');
 })
