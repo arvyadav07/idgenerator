@@ -6,7 +6,7 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Navigate to this folder through git bash.
 - Now in git bash terminal run the following command:
 ```sh
-git clone https://github.com/shaad82663/id-generator
+git clone https://github.com/arvyadav07/idgenerator/edit/main/
 ```
 
 - Navigate to the project folder by running following command in terminal:
